@@ -1,0 +1,13 @@
+# python/venv
+.venv/
+__pycache__/
+*.pyc
+
+# data besar
+data/
+*.csv
+*.xlsx
+*.xls
+
+# streamlit cache
+.streamlit/
